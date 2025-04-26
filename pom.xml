@@ -5,12 +5,12 @@
     <parent>
         <groupId>com.github.sfg-beer-works</groupId>
         <artifactId>sfg-brewery-bom</artifactId>
-        <version>1.0.23</version>
+        <version>1.0.7</version>
     </parent>
 
     <artifactId>mssc-beer-inventory-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-beer-invedntory-service</name>
+    <name>mssc-beer-inventory-service</name>
     <description>MSSC Beer Inventory Service</description>
 
 </project>
