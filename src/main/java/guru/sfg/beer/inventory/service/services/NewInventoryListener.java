@@ -7,7 +7,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
-import sfg.common.events.NewInventoryEvent;
+import brewery.model.events.NewInventoryEvent;
 
 import javax.jms.JMSException;
 
